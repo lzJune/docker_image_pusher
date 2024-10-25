@@ -1,1 +1,1 @@
-ultralytics/ultralytics
+aarch64/ubuntu
